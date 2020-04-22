@@ -14,8 +14,10 @@
 ### Data collected:
 ![](images/hours_worked1.png)
 ![](images/gdp.png)
+![](images/hours_vs_gdp.png)
 ![](images/hours_worked2.png)
 ![](images/alcohol_consumption.png)
+![](images/hours_vs_alcohol.png)
 
 ### Why the data is displayed this way:
-Line graphs were used to display the hours worked of each country, the GDP of each country, and the alcohol consumption of each country because they were showing change over several years.
+Line graphs were used to display the hours worked of each country, the GDP of each country, and the alcohol consumption of each country because they were showing change over several years. A line graph was also used to display hours worked vs. alcohol consumption because it clearly showed how some nations have increased/decreased their alcohol consumption as their annual working hours changed. Lastly, a scatter plot was used to display hours worked vs. GDP so that a possible relationship could be determined between the two variables.
